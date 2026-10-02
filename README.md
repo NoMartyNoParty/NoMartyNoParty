@@ -15,5 +15,5 @@
 
 ## 📊 GitHub Stats
 
-![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoMartyNoParty&show_icons=true&theme=default)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NoMartyNoParty&layout=compact)
+![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoMartyNoParty&show_icons=true&theme=dark)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NoMartyNoParty&layout=compact&theme=dark)
